@@ -1,0 +1,14 @@
+aiohttp==3.8.6
+fastapi==0.110.0
+pydantic==2.6.4
+python-dotenv==1.0.1
+pytz==2023.3.post1
+Requests==2.31.0
+SQLAlchemy==2.0.22
+twilio==9.0.0
+uvicorn==0.28.0
+python-multipart==0.0.9
+psycopg2-binary
+google-api-python-client==2.124.0
+google-auth-oauthlib
+langdetect
